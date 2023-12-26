@@ -112,7 +112,7 @@
 
 @media screen and (min-width:700px){
     .container__accordion{
-        background-image: url('/assets/images/background-pattern-desktop.svg');
+        background-image: url('../assets/images/background-pattern-desktop.svg');
         background-size: 100%;
     }
 
